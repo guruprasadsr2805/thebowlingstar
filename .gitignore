@@ -1,0 +1,4 @@
+# These wont be added while commiting the files
+.gradle
+.idea
+build
